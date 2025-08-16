@@ -1,4 +1,4 @@
-# Classificador de Sinais de Libras — Workshop (Prática)
+# Classificador de Sinais de Libras 
 
 Este repositório contém uma API de **classificação de sinais de Libras**. Inclui:
 - **API Flask** para inferência por HTTP.
